@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marvel_react/static/css/main.88b1c25c.chunk.css",
+    "main.js": "/marvel_react/static/js/main.966bc935.chunk.js",
+    "main.js.map": "/marvel_react/static/js/main.966bc935.chunk.js.map",
+    "runtime-main.js": "/marvel_react/static/js/runtime-main.fb4e0c89.js",
+    "runtime-main.js.map": "/marvel_react/static/js/runtime-main.fb4e0c89.js.map",
+    "static/js/2.46415ef6.chunk.js": "/marvel_react/static/js/2.46415ef6.chunk.js",
+    "static/js/2.46415ef6.chunk.js.map": "/marvel_react/static/js/2.46415ef6.chunk.js.map",
+    "index.html": "/marvel_react/index.html",
+    "static/css/main.88b1c25c.chunk.css.map": "/marvel_react/static/css/main.88b1c25c.chunk.css.map",
+    "static/js/2.46415ef6.chunk.js.LICENSE.txt": "/marvel_react/static/js/2.46415ef6.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/marvel_react/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/marvel_react/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/marvel_react/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4e0c89.js",
+    "static/js/2.46415ef6.chunk.js",
+    "static/css/main.88b1c25c.chunk.css",
+    "static/js/main.966bc935.chunk.js"
+  ]
+}
